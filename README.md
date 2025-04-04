@@ -1,4 +1,4 @@
-## Hi there 👋
+Olá, me chamo Maria Eduarda, tenho 27 anos e estou em busca de novos horizontes. Iniciei meus estudos na área da infórmatica no ensino médio, mas acabei não seguindo este caminho, há dois anos me vi perdida e decidi voltar a estudar e atualmente estou fazendo um curso na linguagem C#.
 
 <!--
 **leviantris/LevianTris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
