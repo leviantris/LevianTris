@@ -2,6 +2,7 @@ Olá, me chamo Maria Eduarda, tenho 27 anos. Gosto muito da área da tecnologia,
 
 
 Um pouco da minha trajetória:
+
 Iniciei meus estudos na área da informática no ensino médio, mas acabei não seguindo este caminho na época. Como sempre gostei do ato de ensinar decidi ir para alguma área da educação, fiz dois anos de licenciatura em química e depois transferi para pedagogia,  mas na pandemia me vi perdida e decidi voltar a estudar sobre programação e afins e atualmente(2025) estou fazendo um curso na linguagem C# pelo Entra21 promovido pela Blusoft.
 
 Linguagens que estou aprendendo:
