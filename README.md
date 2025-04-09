@@ -1,4 +1,4 @@
-Olá, me chamo Maria Eduarda, tenho 27 anos. Gosto muito da área da tecnologia, e estou sempre buscando novas coisas para aprender. Tenho bastante apreço por jogos, lives e tento estar sempre antenada nas redes sociais, caso queiram me conhecer um pouco mais pode dar uma olhada nas minhas redes:
+Olá, me chamo Maria Eduarda, tenho 27 anos. Gosto muito da área da tecnologia, e estou sempre buscando novas coisas para aprender. Tenho bastante apreço por jogos e tento estar sempre antenada nas redes sociais, caso queiram me conhecer um pouco mais pode dar uma olhada nas minhas redes:
 
 
 Um pouco da minha trajetória:
