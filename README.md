@@ -1,6 +1,12 @@
-Olá, me chamo Maria Eduarda, tenho 27 anos e estou em busca de novos horizontes. Iniciei meus estudos na área da informática no ensino médio, mas acabei não seguindo este caminho, há dois anos me vi perdida e decidi voltar a estudar e atualmente estou fazendo um curso na linguagem C#.
+Olá, me chamo Maria Eduarda, tenho 27 anos. Gosto muito da área da tecnologia, e estou sempre buscando novas coisas para aprender. Tenho bastante apreço por jogos, lives e tento estar sempre antenada nas redes sociais, caso queiram me conhecer um pouco mais pode dar uma olhada nas minhas redes:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+Um pouco da minha trajetória:
+Iniciei meus estudos na área da informática no ensino médio, mas acabei não seguindo este caminho na época. Como sempre gostei do ato de ensinar decidi ir para alguma área da educação, fiz dois anos de licenciatura em química e depois transferi para pedagogia,  mas na pandemia me vi perdida e decidi voltar a estudar sobre programação e afins e atualmente(2025) estou fazendo um curso na linguagem C# pelo Entra21 promovido pela Blusoft.
+
+Linguagens que estou aprendendo:
+
+
 
 <!--
 **leviantris/LevianTris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
